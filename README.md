@@ -28,8 +28,8 @@ output to the LCD.
 
 Results
 
-The images in the results section show the output from the LCD when the potentiometer is
-turned to various angles.
+The video verification shows the output from the LCD when the potentiometer is
+turned to various angles. https://youtu.be/yw1PBxKbNXY
 
 
 Conclusion
